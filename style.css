@@ -23,7 +23,11 @@ h1{
     margin-bottom: 30px;
 }
 .get-started{
-    width: 153px;
+    background-color: #21B573;
+    padding: 12px 28px 12px 28px;
+    border-radius: 25px;
+    color: white;
+    width: 160px;
 }
 .card{
     width: 270px;
