@@ -1,0 +1,24 @@
+.container{
+   margin-bottom: 100px;
+}
+.logo{
+    width:198.7px;
+    height:59px;
+}
+.sign-in-btn{
+    background-color: #21B573;
+    padding: 12px 28px 12px 28px;
+    border-radius: 25px;
+    color: white;
+}
+.nav-item{
+    padding-right: 20px;
+}
+.big-image{
+    width: 554px;
+    height: 346px;
+}
+.are-you{
+    font-size: 16px;
+    color: #FD511A;
+}
