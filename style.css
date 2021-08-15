@@ -1,24 +1,38 @@
 .container{
    margin-bottom: 100px;
 }
-.logo{
-    width:198.7px;
-    height:59px;
+body{
+    font-family: 'Poppins', sans-serif;
+    background: #F0FFF0;
 }
+
 .sign-in-btn{
     background-color: #21B573;
     padding: 12px 28px 12px 28px;
     border-radius: 25px;
     color: white;
+    width: 120px;
 }
 .nav-item{
     padding-right: 20px;
 }
-.big-image{
-    width: 554px;
-    height: 346px;
+.any-schedule{
+    color: #21B573;
 }
-.are-you{
-    font-size: 16px;
-    color: #FD511A;
+h1{
+    margin-bottom: 30px;
+}
+.get-started{
+    width: 153px;
+}
+.card{
+    width: 270px;
+    height: 270px;
+    border: none;
+    border-radius: 10px;
+    box-shadow: 0 5px 10px gray;
+    background: #F0FFF0;
+}
+.card-title{
+    padding-top: 20px;
 }
