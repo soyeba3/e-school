@@ -1,6 +1,7 @@
 .container{
    margin-bottom: 100px;
 }
+
 body{
     font-family: 'Poppins', sans-serif;
     background: #F0FFF0;
@@ -29,14 +30,43 @@ h1{
     color: white;
     width: 160px;
 }
-.card{
-    width: 170px;
+.buy-now{
+    background-color: #21B573;
+    padding: 5px 28px 5px 28px;
+    border-radius: 20px;
+    color: white;
+    width: 160px;
+}
+a:hover{
+    color: white;
+}
+.categories{
+    width: 180px;
     height: 200px;
     border: none;
     border-radius: 10px;
     box-shadow: 0 5px 10px gray;
     background: #F0FFF0;
 }
+.online-course{
+    margin-bottom:70px;
+}
 .card-title{
     padding-top: 20px;
+}
+.c-item{
+    border-radius: 15px;
+    box-shadow: 0 5px 10px gray;
+    border: none;
+}
+.icon-img{
+    width: 18px;
+    height: 20px;
+}
+.icon-text{
+    font-size: 10px;
+    padding-top: 3px;
+}
+.hamim{
+    margin-right: 120px;
 }
