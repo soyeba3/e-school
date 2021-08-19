@@ -43,7 +43,7 @@ a:hover{
     color: white;
 }
 .categories{
-    width: 180px;
+    width: 200px;
     height: 200px;
     border: none;
     border-radius: 10px;
@@ -66,8 +66,9 @@ a:hover{
     height: 20px;
 }
 .icon-text{
-    font-size: 10px;
-    padding-top: 3px;
+    font-size: 8px;
+    padding-top: 5px;
+    font-weight: bold;
 }
 .man{
     width: 120px;
